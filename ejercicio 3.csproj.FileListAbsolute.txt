@@ -1,0 +1,14 @@
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\bin\Debug\net10.0\ejercicio 3.exe
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\bin\Debug\net10.0\ejercicio 3.deps.json
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\bin\Debug\net10.0\ejercicio 3.runtimeconfig.json
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\bin\Debug\net10.0\ejercicio 3.dll
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\bin\Debug\net10.0\ejercicio 3.pdb
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\obj\Debug\net10.0\ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\obj\Debug\net10.0\ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\obj\Debug\net10.0\ejercicio 3.AssemblyInfo.cs
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\obj\Debug\net10.0\ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\obj\Debug\net10.0\ejercicio 3.dll
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\obj\Debug\net10.0\refint\ejercicio 3.dll
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\obj\Debug\net10.0\ejercicio 3.pdb
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\obj\Debug\net10.0\ejercicio 3.genruntimeconfig.cache
+C:\Users\Huabing Xu\Desktop\Nueva carpeta\programacion y base de datos\ejercicio 3\obj\Debug\net10.0\ref\ejercicio 3.dll
